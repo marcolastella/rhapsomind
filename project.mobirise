@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rhapso Mind - Photography",
-    "currentPage": "index.html",
+    "currentPage": "landscapes.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -63,7 +63,7 @@
     "uniqCompNum": 34,
     "versionPublish": "5.9.25",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png"
   },
   "pages": {
